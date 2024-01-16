@@ -7,8 +7,7 @@ I'll be graduating in 2025!</br>
 
 My bread and butter these days is using Rust, JavaScript, Python, and 
 anything else I can get my hands on. 
-I geek out over tech like Docker, MongoDB, PostgreSQL, </br>
-and Kubernetes too.
+I geek out over tech like Docker, MongoDB, PostgreSQL, and Kubernetes too.
 
 Sure, I can do some basic front-end dev with HTML, CSS and frameworks like Vue. But I really love getting into application logic, databases, and making things run on the server side. I'm all about that backend life.
 
