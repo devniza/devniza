@@ -3,7 +3,9 @@
 
 I'm Niza (Cloudy), a backend development enthusiast with 2 years of experience slinging code. </br>
 I'm currently studying for my BSc in Computing at the University of Greenwich. 
-I'll be graduating in 2025!</br> My bread and butter these days is using Rust, JavaScript, Python, and </br>
+I'll be graduating in 2025!</br> 
+
+My bread and butter these days is using Rust, JavaScript, Python, and 
 anything else I can get my hands on. 
 I geek out over tech like Docker, MongoDB, PostgreSQL, </br>
 and Kubernetes too.
