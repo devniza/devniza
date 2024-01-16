@@ -10,7 +10,8 @@ and Kubernetes too.
 
 Sure, I can do some basic front-end dev with HTML, CSS and frameworks like Vue. But I really love getting into application logic, databases, and making things run on the server side. I'm all about that backend life.
 
-Moving forward, I want to expand my skills more into specialities like machine learning, cybersecurity, DevOps, and even pick up languages like Java, Ruby and Elixir. I know I've got a lot more learning and growing ahead!
+Moving forward, I want to expand my skills more into specialities like machine learning, cybersecurity, </br>
+DevOps, and even pick up languages like Java, Ruby and Elixir. I know I've got a lot more learning and growing ahead!
 
 Aside from rad tech skills, I also care about being productive, communicating clearly and writing solid, well-documented code. Just taking things one commit at a time!
 
