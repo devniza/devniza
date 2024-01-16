@@ -1,5 +1,12 @@
 ### Hey there 👋
-I'm Niza, a backend development enthusiast with 2 years of experience slinging code. I'm currently studying for my BSc in Computing at the University of Greenwich. I'll be graduating in 2025! My bread and butter these days is using Rust, JavaScript, Python, and anything else I can get my hands on. I geek out over tech like Docker, MongoDB, PostgreSQL, and Kubernetes too.
+<p><img align="right" width="200px" height="200px" src="https://github.com/devniza/devniza/blob/main/assets/smiley-cloud.gif" alt="smiling cloud" /></p>
+
+I'm Niza (Cloudy), a backend development enthusiast with 2 years of experience slinging code. </br>
+I'm currently studying for my BSc in Computing at the University of Greenwich. </br>
+I'll be graduating in 2025! My bread and butter these days is using Rust, JavaScript, Python, and </br>
+anything else I can get my hands on. 
+I geek out over tech like Docker, MongoDB, PostgreSQL, </br>
+and Kubernetes too.
 
 Sure, I can do some basic front-end dev with HTML, CSS and frameworks like Vue. But I really love getting into application logic, databases, and making things run on the server side. I'm all about that backend life.
 
