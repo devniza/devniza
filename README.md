@@ -16,7 +16,8 @@ DevOps, and even pick up languages like Java, Ruby and Elixir. I know I've got a
 
 Aside from rad tech skills, I also care about being productive, communicating clearly and writing solid, well-documented code. Just taking things one commit at a time!
 
-####      <div align="center">![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-darkgreen) ![](https://img.shields.io/badge/Node-lightgreen) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Docker-darkblue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/TypeScript-darkblue) ![](https://img.shields.io/badge/MongoDB-darkgreen) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/HTML-darkyellow) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/TailwindCSS-lightblue) ![](https://img.shields.io/badge/Kubernetes-blue) ![](https://img.shields.io/badge/Github-grey)</div>
+####      <div align="center">![](https://img.shields.io/badge/Vue-green) ![](https://img.shields.io/badge/Nuxt-darkgreen) ![](https://img.shields.io/badge/Node-lightgreen) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Docker-darkblue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/TypeScript-darkblue) ![](https://img.shields.io/badge/MongoDB-darkgreen) </div>
+### <div align="center">![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/HTML-darkyellow) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/TailwindCSS-lightblue) ![](https://img.shields.io/badge/Kubernetes-blue) ![](https://img.shields.io/badge/Github-grey)</div>
 <!--
 **devniza/devniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
