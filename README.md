@@ -22,7 +22,7 @@ Aside from tech skills, I also care about being productive, communicating clearl
             <td style="text-align: center; vertical-align: middle;">
                 <strong>Programming Languages</strong><br>
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=ts,python,java,md,go,rust&theme=dark" alt="Languages">
+                    <img src="https://skillicons.dev/icons?i=ts,python,java,go,rust&theme=dark" alt="Languages">
                 </a>
             </td>
             <td style="text-align: center; vertical-align: middle;">
