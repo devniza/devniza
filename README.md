@@ -1,12 +1,11 @@
 ### Hey there 👋
 <p><img align="right" width="200px" height="200px" src="https://github.com/devniza/devniza/blob/main/assets/smiley-cloud.gif" alt="smiling cloud" /></p>
 
-I'm Niza (Cloudy), a backend development enthusiast (I'm all about that backend life) with 3 years of experience slinging code. </br>
+I'm Niza (Cloudy), a backend development enthusiast (I'm all about that backend life) with 5 years of non-work experience slinging code. </br>
 
 Sure, I can do some basic front-end dev with HTML, CSS and frameworks like Vue. But I really love getting into application logic, databases, and making things run on the server side. 
 
-Moving forward, I want to expand my skills more into specialities like Software Engineering, SRE, DevOps, </br>
-and even pick up languages like Elixir.
+Moving forward, I want to expand my skills more into specialities like Software Engineering, SRE, DevOps and Defensive Security</br>
 
 Aside from tech skills, I also care about being productive, communicating clearly, and writing solid, well-documented code. Just taking things one commit at a time!
 
